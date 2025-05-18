@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codigoencasa/bot-whatsapp/tree/main/packages/bot"
+    "url": "https://github.com/jhoanchq/-bot-whatsapp/tree/main/bot"
   },
   "scripts": {
     "bot:rollup": "node ../../node_modules/.bin/rollup index.js --config ./rollup-cli.config.js",
